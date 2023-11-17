@@ -1,5 +1,6 @@
 # pyremaid
 Python to Mermaid Diagram (exploration)
 
+This library attempts to diagram it's own code.
 
-No root description quite yet, worth having a look [here](docs/pyremaid/pyremaid.py.md)
+Worth having a look [here](docs/pyremaid/pyremaid.py.md)
